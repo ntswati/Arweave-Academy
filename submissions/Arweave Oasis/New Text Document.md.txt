@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account:''' @ntswati ''' 
+- github account:@ntswati
 - Email:billielilis11@gmail.com 
 - Arweave Address:teyhFGYbK9DOc1hOr57_kqDk4Ct1awu67h8A7SMeaK4 
 - ETH Address:0x028Aed585017B9AFC750201405C34F7E61698ad3 
